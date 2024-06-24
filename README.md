@@ -39,8 +39,8 @@ Teríamos como entrada:
 
 E seria impresso:
 
-Clérigo [Saude: 10.0, Forca: 6.0, Destreza: 4.0, Martelo]
-Mago [Saude: 10.0, Forca: 5.0, Destreza: 6.0, Magia da Transmutação]
+Clérigo [Saude: 10.0, Forca: 6.0, Destreza: 4.0, Martelo].
+Mago [Saude: 10.0, Forca: 5.0, Destreza: 6.0, Magia da Transmutação].
 
 A seguir, o programa esperaria como entrada a sequencia de ataques. A sequencia de ataques deve ser informada com dois números: o primeiro número do personagem atacante e o segundo número do personagem defensor.
 
