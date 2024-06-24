@@ -34,6 +34,7 @@ Por exemplo, para criar dois personagens:
 Teríamos como entrada:
 
 3 10 6 4 1
+
 1 10 5 6 1
 
 E seria impresso:
